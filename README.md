@@ -74,7 +74,8 @@ title('closed loop response')
 ```
 
 ## Output
-<img width="694" height="609" alt="Screenshot 2025-10-04 135237" src="https://github.com/user-attachments/assets/07ed36ef-e7da-40f4-b715-c87cd4f56bbf" />
+<img width="694" height="609" alt="Screenshot 2025-10-04 135237" src="https://github.com/user-attachments/assets/42354de3-1a29-41d7-9403-dcc5770abcf2" />
+
 
 ## Result
 Thus, the position of dc motor is controlled using MATLAB. 
